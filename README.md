@@ -1,6 +1,6 @@
 # WoWIconGAN
 
-We created a batch of new images based on a directory of 4,000+ World of Warcraft images. After not getting lucky with the original model, we tweaked it to first train low resolution versions of the images, followed by medium resolution versions, and then finally high resolution images. Below are some results.
+We created a batch of new icons based on a directory of 4,000+ World of Warcraft images. After not finding luck with the original model, we tweaked it to first train low resolution versions of the images, followed by medium resolution versions, and then finally high resolution images. Below are some results.
 
 Original Icons:
 ![first image](https://github.com/ethanlosborne/WoWIconGAN/blob/main/OriginalWoWIcons/01.png)![second image](https://github.com/ethanlosborne/WoWIconGAN/blob/main/OriginalWoWIcons/01_1.png)![third image](https://github.com/ethanlosborne/WoWIconGAN/blob/main/OriginalWoWIcons/01_2.png)![fourth image](https://github.com/ethanlosborne/WoWIconGAN/blob/main/OriginalWoWIcons/01_3.png)![fifth image](https://github.com/ethanlosborne/WoWIconGAN/blob/main/OriginalWoWIcons/01_4.png)
@@ -11,7 +11,7 @@ First Test Icons:
 Lower Res Test Icons:
 ![firstLrR image](https://github.com/ethanlosborne/WoWIconGAN/blob/main/LowerResTestIcons/l%200.png)![secondLrR image](https://github.com/ethanlosborne/WoWIconGAN/blob/main/LowerResTestIcons/l%201.png)![thirdLrR image](https://github.com/ethanlosborne/WoWIconGAN/blob/main/LowerResTestIcons/l%202.png)![fourthLrR image](https://github.com/ethanlosborne/WoWIconGAN/blob/main/LowerResTestIcons/l%203.png)![fifthLrR image](https://github.com/ethanlosborne/WoWIconGAN/blob/main/LowerResTestIcons/l%204.png)
 
-Low Res Test Icons:
+Medium Res Test Icons:
 ![firstLR image](https://github.com/ethanlosborne/WoWIconGAN/blob/main/LowResTestIcons/l%20556.png)![secondLR image](https://github.com/ethanlosborne/WoWIconGAN/blob/main/LowResTestIcons/l%20557.png)![thirdLR image](https://github.com/ethanlosborne/WoWIconGAN/blob/main/LowResTestIcons/l%20558.png)![fourthLR image](https://github.com/ethanlosborne/WoWIconGAN/blob/main/LowResTestIcons/l%20559.png)![fifthLR image](https://github.com/ethanlosborne/WoWIconGAN/blob/main/LowResTestIcons/l%20560.png)
 
 Low Res Trained Icons:
