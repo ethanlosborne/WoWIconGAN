@@ -8,7 +8,7 @@ Original Icons:
 First Test Icons:
 ![firstT image](https://github.com/ethanlosborne/WoWIconGAN/blob/main/FirstTryWoWIcons/generated_img_065_0.png)![secondT image](https://github.com/ethanlosborne/WoWIconGAN/blob/main/FirstTryWoWIcons/generated_img_065_1.png)![thirdT image](https://github.com/ethanlosborne/WoWIconGAN/blob/main/FirstTryWoWIcons/generated_img_065_3.png)![fourthT image](https://github.com/ethanlosborne/WoWIconGAN/blob/main/FirstTryWoWIcons/generated_img_065_4.png)![fifthT image](https://github.com/ethanlosborne/WoWIconGAN/blob/main/FirstTryWoWIcons/generated_img_066_2.png)
 
-Lower Res Test Icons:
+Low Res Test Icons:
 ![firstLrR image](https://github.com/ethanlosborne/WoWIconGAN/blob/main/LowerResTestIcons/l%200.png)![secondLrR image](https://github.com/ethanlosborne/WoWIconGAN/blob/main/LowerResTestIcons/l%201.png)![thirdLrR image](https://github.com/ethanlosborne/WoWIconGAN/blob/main/LowerResTestIcons/l%202.png)![fourthLrR image](https://github.com/ethanlosborne/WoWIconGAN/blob/main/LowerResTestIcons/l%203.png)![fifthLrR image](https://github.com/ethanlosborne/WoWIconGAN/blob/main/LowerResTestIcons/l%204.png)
 
 Medium Res Test Icons:
