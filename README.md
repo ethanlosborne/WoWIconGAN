@@ -20,5 +20,5 @@ Low Res Trained Icons:
 Medium Res Trained Icons:
 ![firstMR image](https://github.com/ethanlosborne/WoWIconGAN/blob/main/MedResWoWIcons/med_generated_img_019_4.png)![secondMR image](https://github.com/ethanlosborne/WoWIconGAN/blob/main/MedResWoWIcons/med_generated_img_003_0.png)![thirdMR image](https://github.com/ethanlosborne/WoWIconGAN/blob/main/MedResWoWIcons/med_generated_img_008_4.png)![fourthMR image](https://github.com/ethanlosborne/WoWIconGAN/blob/main/MedResWoWIcons/med_generated_img_013_0.png)![fifthMR image](https://github.com/ethanlosborne/WoWIconGAN/blob/main/MedResWoWIcons/med_generated_img_000_0.png)
 
-High Res Trained Images:
+High Res Trained Icons:
 ![firstHR image](https://github.com/ethanlosborne/WoWIconGAN/blob/main/HighResWoWIcons/high_generated_img_000_2.png)![secondHR image](https://github.com/ethanlosborne/WoWIconGAN/blob/main/HighResWoWIcons/high_generated_img_005_2.png)![thirdHR image](https://github.com/ethanlosborne/WoWIconGAN/blob/main/HighResWoWIcons/high_generated_img_010_0.png)![fourthHR image](https://github.com/ethanlosborne/WoWIconGAN/blob/main/HighResWoWIcons/high_generated_img_015_4.png)![fifthHR image](https://github.com/ethanlosborne/WoWIconGAN/blob/main/HighResWoWIcons/high_generated_img_019_3.png)
