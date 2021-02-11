@@ -1,6 +1,6 @@
 # WoWIconGAN
 
-Our group consisted of Bjarke Larsen, Ethan Osborne, and Marj Cuerdo. To run this code, you need to have tensorflow, keras, cudatoolkit, cudnn, and numpy installed in an anaconda environment. To run this project, you need to run the command python wowgan.py in the command prompt/terminal in the anaconda environment. Also, ask me for the full project in a zipfile because there were too many to upload to Github.
+Our group consisted of Bjarke Larsen, Ethan Osborne, and Marj Cuerdo. To run this code, you need to have tensorflow, keras, cudatoolkit, cudnn, and numpy installed in an anaconda environment. To run this project, you need to run the command python wowgan.py in the command prompt/terminal in the anaconda environment. Also, ask me for the full project in a zipfile because there were too many files to upload to Github.
 
 
 We created a batch of new icons based on a directory of 4,000+ World of Warcraft images. After not finding luck with the original model, we tweaked it to first train low resolution versions of the images, followed by medium resolution versions, and then finally high resolution images. Below are some results.
