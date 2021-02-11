@@ -1,5 +1,8 @@
 # WoWIconGAN
 
+Our group consisted of Bjarke Larsen, Ethan Osborne, and Marj Cuerdo. To run this code, you need to have tensorflow, keras, cudatoolkit, cudnn, and numpy installed in an anaconda environment. To run this project, you need to run the command python wowgan.py in the command prompt/terminal in the anaconda environment. Also, ask me for the full project in a zipfile because there were too many to upload to Github.
+
+
 We created a batch of new icons based on a directory of 4,000+ World of Warcraft images. After not finding luck with the original model, we tweaked it to first train low resolution versions of the images, followed by medium resolution versions, and then finally high resolution images. Below are some results.
 
 Original Icons:
@@ -22,3 +25,5 @@ Medium Res Trained Icons:
 
 High Res Trained Icons:
 ![firstHR image](https://github.com/ethanlosborne/WoWIconGAN/blob/main/HighResWoWIcons/high_generated_img_000_2.png)![secondHR image](https://github.com/ethanlosborne/WoWIconGAN/blob/main/HighResWoWIcons/high_generated_img_005_2.png)![thirdHR image](https://github.com/ethanlosborne/WoWIconGAN/blob/main/HighResWoWIcons/high_generated_img_010_0.png)![fourthHR image](https://github.com/ethanlosborne/WoWIconGAN/blob/main/HighResWoWIcons/high_generated_img_015_4.png)![fifthHR image](https://github.com/ethanlosborne/WoWIconGAN/blob/main/HighResWoWIcons/high_generated_img_019_3.png)
+
+The constraints that we had to define were that we needed to train it on different resolutions due to one training cycle being not enough to create a good output. 
