@@ -26,4 +26,4 @@ Medium Res Trained Icons:
 High Res Trained Icons:
 ![firstHR image](https://github.com/ethanlosborne/WoWIconGAN/blob/main/HighResWoWIcons/high_generated_img_000_2.png)![secondHR image](https://github.com/ethanlosborne/WoWIconGAN/blob/main/HighResWoWIcons/high_generated_img_005_2.png)![thirdHR image](https://github.com/ethanlosborne/WoWIconGAN/blob/main/HighResWoWIcons/high_generated_img_010_0.png)![fourthHR image](https://github.com/ethanlosborne/WoWIconGAN/blob/main/HighResWoWIcons/high_generated_img_015_4.png)![fifthHR image](https://github.com/ethanlosborne/WoWIconGAN/blob/main/HighResWoWIcons/high_generated_img_019_3.png)
 
-The constraints that we had to define were that we needed to train it on different resolutions due to one training cycle being not enough to create a good output. 
+The constraints that we had to define were the limitation of just ~4,000 images that were of various types so we ended with the more amorphous images. 
